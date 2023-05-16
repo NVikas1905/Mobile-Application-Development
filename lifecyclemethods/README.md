@@ -114,9 +114,8 @@ Step 7: Save and run the application.
 
 
 Developed by: VIKAS N
-Registeration Number : 212221040179
 
-```
+Registeration Number : 212221040179
 
 ## OUTPUT
 
