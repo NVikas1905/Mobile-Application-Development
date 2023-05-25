@@ -126,30 +126,30 @@ Registeration Number : 212221040179
 
 ## OUTPUT
 ## ACTIVITY_MAIN.XML
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/01.jpeg)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/01.jpeg?raw=true)
 
 ## MAIN ACTIVITY.JAVA
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/02.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/02.jpeg?raw=true)
 
 ## ONCREATE()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/03.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/03.jpeg?raw=true)
 
 ## ONSTART()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/04.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/04.jpeg?raw=true)
 
 ## ONRESTART()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/05.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/05.jpeg?raw=true)
 
 ## ONRESUME()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/06.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/06.jpeg?raw=true)
 
 ## ONSTOP()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/07.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/07.jpeg?raw=true)
 
 ## ONPAUSE()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/08.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/08.jpeg?raw=true)
 
 ## ONDESTROY()
-![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/09.jpeg?raw=true)
+![](https://github.com/NVikas1905/Mobile-Application-Development/blob/main/lifecyclemethods/09.jpeg?raw=true)
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
